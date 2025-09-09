@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^2.2.7",
+    "critters": "^0.0.23",
     "framer-motion": "^12.23.12",
     "next": "15.5.2",
     "react": "19.1.0",
